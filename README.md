@@ -1,3 +1,3 @@
-# Data Cleaning and Manipulation Projects
+# Projects : Data Cleaning and Manipulation
 
-I store my training on Data Cleaning and Manipulation here, feel free to see haha
+I store my projects about Data Cleaning and Manipulation here
